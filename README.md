@@ -24,3 +24,10 @@ Size of test set: 1,234 records
     Seats: The number of seats in the car.
     New_Price: The price of a new car of the same model.
     Price: The price of the used car in INR Lakhs.
+
+# Metric
+Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the predicted value and observed score values. The final score calculation is done in the following way:
+
+Submissions are evaluated on Root-Mean-Squared-Log-Error (RMSLE) error = RMSLE (error)
+
+Score = 1 – error
