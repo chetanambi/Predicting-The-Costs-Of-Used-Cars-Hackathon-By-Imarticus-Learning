@@ -12,7 +12,7 @@ Size of training set: 6,019 records
 
 Size of test set: 1,234 records
 
-# FEATURES:
+# FEATURES
     Name: The brand and model of the car.
     Location: The location in which the car is being sold or is available for purchase.
     Year: The year or edition of the model.
@@ -33,3 +33,6 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the predicte
 Submissions are evaluated on Root-Mean-Squared-Log-Error (RMSLE) error = RMSLE (error)
 
 Score = 1 – error
+
+# Leaderboard
+Rank 5 (Score: 0.9473)
